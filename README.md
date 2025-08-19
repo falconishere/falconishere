@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abhishan Francis  
 
 ### 🚀 About Me  
-- 🎓 BTech 1st Year Student | Passionate about Technology & Software Development  
+- 🎓 BTech 2nd Year Student | Passionate about Technology & Software Development  
 - 💻 Exploring **C, C++, Java, Python, and Web Development**  
 - 🎯 Interested in Problem Solving, OOP, Hackathons & IoT Projects  
 - 🌱 Currently learning: **Data Structures & Algorithms**  
