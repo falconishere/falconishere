@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhishan Francis  
 
-<!--
-**falconishere/falconishere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🎓 BTech 1st Year Student | Passionate about Technology & Software Development  
+- 💻 Exploring **C, C++, Java, Python, and Web Development**  
+- 🎯 Interested in Problem Solving, OOP, Hackathons & IoT Projects  
+- 🌱 Currently learning: **Data Structures & Algorithms**  
+- ⚡ Fun fact: I debug more than I code 😅  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack  
+- **Languages:** C, C++, Java, Python  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Tools & Platforms:** Git, GitHub, VS Code  
+- **Other Interests:** IoT, Automation, Networking  
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=falconishere&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=falconishere&layout=compact&theme=radical)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=falconishere&theme=radical&hide_border=true)  
+
+---
+
+### 🏆 Achievements  
+![Trophies](https://github-profile-trophy.vercel.app/?username=falconishere&theme=radical&no-frame=true&margin-w=15&row=1)  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=falconishere&style=for-the-badge&color=blue)  
+
+---
+
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox)](https://github.com/falconishere)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)  
+
+---
+
+⭐️ From [Abhishan Francis](https://github.com/falconishere)  
