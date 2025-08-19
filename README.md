@@ -2,7 +2,7 @@
 
 ### 🚀 About Me  
 - 🎓 BTech 2nd Year Student | Passionate about Technology & Software Development  
-- 💻 Exploring **C, C++, Java, Python, and Web Development**  
+- 💻 Exploring **C, C++, Java, Python, and Web Development**  (FAKE)
 - 🎯 Interested in Problem Solving, OOP, Hackathons & IoT Projects  
 - 🌱 Currently learning: **Data Structures & Algorithms**  
 - ⚡ Fun fact: I debug more than I code 😅  
