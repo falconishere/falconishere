@@ -8,6 +8,10 @@
 - ⚡ Fun fact: I debug more than I code 😅  
 
 ---
+###  📁 Recent Projects 
+- [Digital Business Card](https://github.com/falconishere/business-card-flip)
+- [Movie Info Webpage](https://github.com/falconishere/Movie-info)
+---
 
 ### 🛠️ Tech Stack  
 - **Languages:** C, C++, Java, Python  
