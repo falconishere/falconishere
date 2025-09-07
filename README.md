@@ -9,6 +9,9 @@
 
 ---
 ###  📁 Recent Projects 
+- [DocQA](https://github.com/falconishere/DocQA)
+- [ExpenseTracker](https://github.com/falconishere/ExpenseTracker)
+- [BID_System_V1](https://github.com/JuliusDude/BID_System_V1)
 - [Digital Business Card](https://github.com/falconishere/business-card-flip)
 - [Movie Info Webpage](https://github.com/falconishere/Movie-info)
 ---
