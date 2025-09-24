@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 I'm currently working on **IoT Projects and Web Development**
+🔭 I'm currently working on **AI ML Projects and Web Development**
 
-🌱 I'm currently learning **Data Structures & Algorithms, React**
+🌱 I'm currently learning **Data Structures & Algorithms**
 
 💬 Ask me about **C++, Java, Python, Web Development... or anything [here](https://github.com/falconishere/falconishere/issues)**
 
@@ -21,7 +21,7 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:abhiiishanfrancis@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/abhishanfrancis" target="_blank">
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,c,git,github,vscode" />
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,arduino,linux,figma,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,python,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=ps,premiere,photoshop,mysql,firebase" /><br>
 </div>
 
 <br/>
