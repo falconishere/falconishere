@@ -79,7 +79,7 @@
   <a href="https://github.com/falconishere/business-card-flip">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=falconishere&repo=business-card-flip&theme=react&border_radius=10" />
   </a>
-  <a href="https://github.com/falconishere/Movie-info">
+  <a href="https://github.com/falconishere/BID_System_V1">
     <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=falconishere&repo=Movie-info&theme=react&border_radius=10" />
   </a>
 </div>
